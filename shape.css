@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(209, 110, 44);
+}
+label{
+    color: rgb(228, 200, 44) ;
+}
+title{
+    color: rgb(179, 35, 35);
+}
+.bb{
+  background-color: blue; 
+  margin: 10px;
+  padding: 10px; 
+}
+input[type=submit]:hover{
+    background-color: limegreen;
+    color: midnightblue;
+}
+input[type=reset]:hover{
+    background-color: royalblue;
+    color: lightskyblue;
+}
